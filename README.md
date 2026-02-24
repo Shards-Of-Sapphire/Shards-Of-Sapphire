@@ -1,5 +1,5 @@
 # 💫 About Us:
-# Sapphire <br>Engineering Collective & Technical Agency<br><br>We build custom software solutions with a focus on AI integration, data management, and system optimization. * Current Focus: Developing LegalEase (Legal Tech) and BackTrack (Data Systems).<br><br>Philosophy: Systems-centric development. We build the engine, not just the car.<br><br>Status: Transitioning into a full-service agency.<br><br>[Portfolio Site] | [Contact for Collaboration]
+# Sapphire # <br>Engineering Collective & Technical Agency<br><br>We build custom software solutions with a focus on AI integration, data management, and system optimization. * Current Focus: Developing LegalEase (Legal Tech) and BackTrack (Data Systems).<br><br>Philosophy: Systems-centric development. We build the engine, not just the car.<br><br>Status: Transitioning into a full-service agency.<br><br>[Portfolio Site] | [Contact for Collaboration]
 
 
 ## 🌐 Socials:
