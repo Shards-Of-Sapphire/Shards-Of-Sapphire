@@ -1,5 +1,5 @@
 # 💫 About Us:
-__Sapphire__ <br>Engineering Collective & Technical Agency to-be<br><br>We build custom software solutions with a focus on AI integration, data management, and system optimization. * Current Focus: Developing LegalEase (Legal Tech) and BackTrack (Data Systems).<br><br>Philosophy: Systems-centric development. We build the engine, not just the car.<br><br>Status: Transitioning into a full-service agency.<br><br>[https://shards-of-sapphire.github.io/Webpage/] | [shardsofsapphire.org@gmail.com]
+__Sapphire__ <br>Engineering Collective & Technical Agency to-be<br><br>We build custom software solutions with a focus on AI integration, data management, and system optimization. * Current Focus: Developing LegalEase (Legal Tech).<br><br>Philosophy: Systems-centric development. We build the engine, not just the car.<br><br>Status: Transitioning into a full-service agency.<br><br>[https://shards-of-sapphire.github.io/Webpage/] | [shardsofsapphire.org@gmail.com]
 
 
 ## 🌐 Socials:
