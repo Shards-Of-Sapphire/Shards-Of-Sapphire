@@ -20,5 +20,3 @@ __Sapphire__ <br>Engineering Collective & Technical Agency to-be<br><br>We build
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shards-of-sapphire&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
